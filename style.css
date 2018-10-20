@@ -1,0 +1,44 @@
+body
+{
+margin: 0;
+background: #EEEEEE;
+}
+.chat
+{
+background-color: black;
+height: 250px;
+}
+.chat1
+{
+background-color: white;
+height: 250px;
+padding: 35;
+font-size: 15px;
+text-align: center;
+}
+p
+{
+position: relative; 
+top: 50%; 
+transform: translateY(-50%);
+}
+.chat2
+{
+background-color: white;
+height: 250px;
+padding: 35;
+font-size: 15px;
+text-align: center;
+}
+
+.chat3
+{
+background-color: white;
+height: 250px;
+font-size: 15px;
+text-align: center;
+background-image: url("Img/zdj.jpg");
+background-position: center;
+background-repeat: no-repeat;
+}
+
